@@ -18,11 +18,12 @@ Working memory performance involves complex interactions between sensory represe
 ## 📁 Project Structure
 
 ├── BrainMap/
-│ └── region_type.R # Scripts for brain region visualization (ggseg, ggplot2)
+│   └── region_type.R        # Scripts for brain region visualization using ggseg and ggplot2
+│
 ├── GAM/
-│ ├── fdr_correction.R # FDR correction and model comparisons
-│ ├── gam_functions.R # Helper functions for GAM fitting and prediction
-│ └── plot_gam.R # Plotting fitted GAM curves for each brain region
+│   ├── fdr_correction.R     # ANOVA-based testing and FDR correction for GAM models
+│   ├── gam_functions.R      # Helper functions for GAM fitting, derivative calculation, etc.
+│   └── plot_gam.R           # Visualization of fitted GAM curves and scatter plots
 
 
 
