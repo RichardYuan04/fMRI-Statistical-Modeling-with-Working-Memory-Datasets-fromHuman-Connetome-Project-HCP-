@@ -22,6 +22,7 @@ Working memory performance involves complex interactions between sensory represe
 │   └── region_type.R        # Scripts for brain region visualization using ggseg and ggplot2
 │
 ├── GAM/
+│   ├── aic.R                # Akaike Information Criterion (AIC) based model selection
 │   ├── fdr_correction.R     # ANOVA-based testing and FDR correction for GAM models
 │   ├── gam_functions.R      # Helper functions for GAM fitting, derivative calculation, etc.
 │   └── plot_gam.R           # Visualization of fitted GAM curves and scatter plots
