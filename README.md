@@ -52,13 +52,13 @@ Working memory performance involves complex interactions between sensory represe
 
 ## 📬 Contact
 
-Yuqi Yuan  
+Yuqi Yuan
 Email: u3597424@connect.hku.hk
 GitHub: [RichardYuan04](https://github.com/RichardYuan04)
 
 Bohan Zhang
-Email:
-Github:
+Email: zhangbohan@chd.edu.cn
+
 ---
 
 This repository is part of an ongoing academic study. Please cite appropriately if you use any part of the code or methods.
