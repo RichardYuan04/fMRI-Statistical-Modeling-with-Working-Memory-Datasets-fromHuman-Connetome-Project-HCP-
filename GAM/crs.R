@@ -1,5 +1,6 @@
-# 加载必要的 R 包q()
+# 加载必要的 R 包
 library("crs")
+library("parabar")
 library("doParabar")
 library("foreach")
 
